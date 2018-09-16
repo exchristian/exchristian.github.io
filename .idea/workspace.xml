@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0e0d42-87b9-46c9-942f-e3efd07f0b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/chapter3/3.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/2.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/4.1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/copy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/copy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/reward.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/reward.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/search_index.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +39,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="12" />
+          <entry key="md" value="13" />
           <entry key="sh" value="3" />
         </counts>
       </usages-collector>
@@ -42,7 +47,7 @@
         <counts>
           <entry key="Bash" value="3" />
           <entry key="Git file" value="1" />
-          <entry key="Markdown" value="12" />
+          <entry key="Markdown" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -68,11 +73,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="48">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter4/4.1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -103,8 +120,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="33" />
-    <option name="y" value="23" />
+    <option name="x" value="241" />
+    <option name="y" value="33" />
     <option name="width" value="1849" />
     <option name="height" value="1052" />
   </component>
@@ -126,17 +143,6 @@
             <path>
               <item name="exchristian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="exchristian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exchristian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exchristian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exchristian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exchristian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -152,7 +158,7 @@
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537093546821" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537093957586" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -211,7 +217,7 @@
       <workItem from="1537046855949" duration="2373000" />
       <workItem from="1537049782109" duration="1266000" />
       <workItem from="1537089092617" duration="1632000" />
-      <workItem from="1537090760112" duration="2918000" />
+      <workItem from="1537090760112" duration="3811000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537047824737</created>
@@ -259,7 +265,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8376000" />
+    <option name="totallyTimeSpent" value="9269000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,7 +277,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="19" width="1491" height="848" extended-state="0" />
+    <frame x="195" y="27" width="1491" height="848" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28262386" />
@@ -290,7 +296,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.65686274" visible="true" weight="0.41473988" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.65686274" visible="true" weight="0.47976878" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.34313726" side_tool="true" weight="0.6526773" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -427,8 +433,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/copy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/4.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

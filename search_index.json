@@ -1,1 +1,2466 @@
-{"index":{"version":"0.5.12","fields":[{"name":"title","boost":10},{"name":"keywords","boost":15},{"name":"body","boost":1}],"ref":"url","documentStore":{"store":{"./":["09","11:23:19","16","2018","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","书中文章都是我在知乎的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法。","你们好些人说我是基督教的无脑黑，其实我是懒得和你们废脑子了。","你们要看我的逻辑推理，请来这里。我将我写过的百余篇文章梳理如下，方便大家阅读，也方便你们批判。","全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：github","前言","前言前言","在与新老基督徒的辩论中，你们的证据并没有更新，连论调也一模一样，我实在懒得把我两年前的文章再复述一篇，重复对我的读者也是一种罪过。","每年，新生入大学的时候，也是知乎上新一批教徒涌现的时候。"],"../chapter1/1.1.html":["09","1.1","11:24:44","16","2018","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","年轻人如何在独居时有效地保持自律？"],"../chapter1/1.2.html":["09","1.2","11:24:44","16","2018","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","学习方法金字塔"],"../chapter1/1.3.html":["09","1.3","11:24:44","16","2018","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","自制力模型"],"chapter2/2.1.html":["09","11:16:37","16","2.1","2018","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","既然知识都会遗忘，我们为什么要学习？"],"chapter2/2.2.html":["09","11:24:00","16","2.2","2018","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","如何提高学习能力？"],"chapter3/3.1.html":["09","11:24:24","16","2018","3.1","albert","copyright","gitbook该文件修订时间：","reserved，pow","right","w","©","我考研的故事"],"reward.html":["09","10:11:24","16","2018","albert","copyright","epub,","gitbook该文件修订时间：","mobi格式的下载。开源项目地址：github","pdf,","reserved，pow","right","w","©","如果您从本书得到了一些收获，欢迎扫码赞赏我，您的支持会激励我创作更多优质内容。","本书由gitbook制作，提供","赞赏","赞赏赞赏"]},"length":8},"tokenStore":{"root":{"0":{"9":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}},"docs":{}},"1":{"0":{"docs":{},":":{"1":{"1":{"docs":{},":":{"2":{"4":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}},"docs":{}},"docs":{}}},"docs":{}},"docs":{}}},"1":{"docs":{},":":{"1":{"6":{"docs":{},":":{"3":{"7":{"docs":{"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333}}},"docs":{}},"docs":{}}},"docs":{}},"2":{"3":{"docs":{},":":{"1":{"9":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}},"docs":{}},"docs":{}}},"4":{"docs":{},":":{"0":{"0":{"docs":{"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333}}},"docs":{}},"2":{"4":{"docs":{"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333}}},"docs":{}},"4":{"4":{"docs":{"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333}}},"docs":{}},"docs":{}}},"docs":{}},"docs":{}}},"6":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}},"docs":{},".":{"1":{"docs":{"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":5}}},"2":{"docs":{"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":5}}},"3":{"docs":{"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":5}}},"docs":{}}},"2":{"0":{"1":{"8":{"docs":{"./":{"ref":"./","tf":0.10526315789473684},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.16666666666666666},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.16666666666666666},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.16666666666666666},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.16666666666666666},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.16666666666666666},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.16666666666666666},"reward.html":{"ref":"reward.html","tf":0.1111111111111111}}},"docs":{}},"docs":{}},"docs":{},".":{"1":{"docs":{"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":5}}},"2":{"docs":{"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":5}}},"docs":{}}},"3":{"docs":{},".":{"1":{"docs":{"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":5}}},"docs":{}}},"docs":{},"a":{"docs":{},"l":{"docs":{},"b":{"docs":{},"e":{"docs":{},"r":{"docs":{},"t":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}},"c":{"docs":{},"o":{"docs":{},"p":{"docs":{},"y":{"docs":{},"r":{"docs":{},"i":{"docs":{},"g":{"docs":{},"h":{"docs":{},"t":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}}}}},"g":{"docs":{},"i":{"docs":{},"t":{"docs":{},"b":{"docs":{},"o":{"docs":{},"o":{"docs":{},"k":{"docs":{},"该":{"docs":{},"文":{"docs":{},"件":{"docs":{},"修":{"docs":{},"订":{"docs":{},"时":{"docs":{},"间":{"docs":{},"：":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}}}}}}}}}}},"r":{"docs":{},"e":{"docs":{},"s":{"docs":{},"e":{"docs":{},"r":{"docs":{},"v":{"docs":{},"e":{"docs":{},"d":{"docs":{},"，":{"docs":{},"p":{"docs":{},"o":{"docs":{},"w":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}}}}}}},"i":{"docs":{},"g":{"docs":{},"h":{"docs":{},"t":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}},"w":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}},"©":{"docs":{"./":{"ref":"./","tf":0.05263157894736842},"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":0.08333333333333333},"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":0.08333333333333333},"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":0.08333333333333333},"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":0.08333333333333333},"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":0.08333333333333333},"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":0.08333333333333333},"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}},"书":{"docs":{},"中":{"docs":{},"文":{"docs":{},"章":{"docs":{},"都":{"docs":{},"是":{"docs":{},"我":{"docs":{},"在":{"docs":{},"知":{"docs":{},"乎":{"docs":{},"的":{"docs":{},"回":{"docs":{},"答":{"docs":{},"，":{"docs":{},"内":{"docs":{},"容":{"docs":{},"有":{"docs":{},"些":{"docs":{},"许":{"docs":{},"重":{"docs":{},"复":{"docs":{},",":{"docs":{},"希":{"docs":{},"望":{"docs":{},"大":{"docs":{},"家":{"docs":{},"海":{"docs":{},"涵":{"docs":{},"。":{"docs":{},"另":{"docs":{},"一":{"docs":{},"方":{"docs":{},"面":{"docs":{},"，":{"docs":{},"重":{"docs":{},"复":{"docs":{},"的":{"docs":{},"内":{"docs":{},"容":{"docs":{},"正":{"docs":{},"是":{"docs":{},"影":{"docs":{},"响":{"docs":{},"我":{"docs":{},"最":{"docs":{},"深":{"docs":{},"的":{"docs":{},"观":{"docs":{},"念":{"docs":{},"和":{"docs":{},"想":{"docs":{},"法":{"docs":{},"。":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"你":{"docs":{},"们":{"docs":{},"好":{"docs":{},"些":{"docs":{},"人":{"docs":{},"说":{"docs":{},"我":{"docs":{},"是":{"docs":{},"基":{"docs":{},"督":{"docs":{},"教":{"docs":{},"的":{"docs":{},"无":{"docs":{},"脑":{"docs":{},"黑":{"docs":{},"，":{"docs":{},"其":{"docs":{},"实":{"docs":{},"我":{"docs":{},"是":{"docs":{},"懒":{"docs":{},"得":{"docs":{},"和":{"docs":{},"你":{"docs":{},"们":{"docs":{},"废":{"docs":{},"脑":{"docs":{},"子":{"docs":{},"了":{"docs":{},"。":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"要":{"docs":{},"看":{"docs":{},"我":{"docs":{},"的":{"docs":{},"逻":{"docs":{},"辑":{"docs":{},"推":{"docs":{},"理":{"docs":{},"，":{"docs":{},"请":{"docs":{},"来":{"docs":{},"这":{"docs":{},"里":{"docs":{},"。":{"docs":{},"我":{"docs":{},"将":{"docs":{},"我":{"docs":{},"写":{"docs":{},"过":{"docs":{},"的":{"docs":{},"百":{"docs":{},"余":{"docs":{},"篇":{"docs":{},"文":{"docs":{},"章":{"docs":{},"梳":{"docs":{},"理":{"docs":{},"如":{"docs":{},"下":{"docs":{},"，":{"docs":{},"方":{"docs":{},"便":{"docs":{},"大":{"docs":{},"家":{"docs":{},"阅":{"docs":{},"读":{"docs":{},"，":{"docs":{},"也":{"docs":{},"方":{"docs":{},"便":{"docs":{},"你":{"docs":{},"们":{"docs":{},"批":{"docs":{},"判":{"docs":{},"。":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"全":{"docs":{},"书":{"docs":{},"由":{"docs":{},"我":{"docs":{},"个":{"docs":{},"人":{"docs":{},"编":{"docs":{},"辑":{"docs":{},"校":{"docs":{},"对":{"docs":{},"，":{"docs":{},"难":{"docs":{},"免":{"docs":{},"有":{"docs":{},"纰":{"docs":{},"漏":{"docs":{},"错":{"docs":{},"误":{"docs":{},"。":{"docs":{},"希":{"docs":{},"望":{"docs":{},"读":{"docs":{},"者":{"docs":{},"朋":{"docs":{},"友":{"docs":{},"们":{"docs":{},"不":{"docs":{},"吝":{"docs":{},"赐":{"docs":{},"教":{"docs":{},"。":{"docs":{},"文":{"docs":{},"章":{"docs":{},"统":{"docs":{},"一":{"docs":{},"反":{"docs":{},"馈":{"docs":{},"交":{"docs":{},"流":{"docs":{},"区":{"docs":{},"：":{"docs":{},"g":{"docs":{},"i":{"docs":{},"t":{"docs":{},"h":{"docs":{},"u":{"docs":{},"b":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"前":{"docs":{},"言":{"docs":{"./":{"ref":"./","tf":10}},"前":{"docs":{},"言":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}},"在":{"docs":{},"与":{"docs":{},"新":{"docs":{},"老":{"docs":{},"基":{"docs":{},"督":{"docs":{},"徒":{"docs":{},"的":{"docs":{},"辩":{"docs":{},"论":{"docs":{},"中":{"docs":{},"，":{"docs":{},"你":{"docs":{},"们":{"docs":{},"的":{"docs":{},"证":{"docs":{},"据":{"docs":{},"并":{"docs":{},"没":{"docs":{},"有":{"docs":{},"更":{"docs":{},"新":{"docs":{},"，":{"docs":{},"连":{"docs":{},"论":{"docs":{},"调":{"docs":{},"也":{"docs":{},"一":{"docs":{},"模":{"docs":{},"一":{"docs":{},"样":{"docs":{},"，":{"docs":{},"我":{"docs":{},"实":{"docs":{},"在":{"docs":{},"懒":{"docs":{},"得":{"docs":{},"把":{"docs":{},"我":{"docs":{},"两":{"docs":{},"年":{"docs":{},"前":{"docs":{},"的":{"docs":{},"文":{"docs":{},"章":{"docs":{},"再":{"docs":{},"复":{"docs":{},"述":{"docs":{},"一":{"docs":{},"篇":{"docs":{},"，":{"docs":{},"重":{"docs":{},"复":{"docs":{},"对":{"docs":{},"我":{"docs":{},"的":{"docs":{},"读":{"docs":{},"者":{"docs":{},"也":{"docs":{},"是":{"docs":{},"一":{"docs":{},"种":{"docs":{},"罪":{"docs":{},"过":{"docs":{},"。":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"每":{"docs":{},"年":{"docs":{},"，":{"docs":{},"新":{"docs":{},"生":{"docs":{},"入":{"docs":{},"大":{"docs":{},"学":{"docs":{},"的":{"docs":{},"时":{"docs":{},"候":{"docs":{},"，":{"docs":{},"也":{"docs":{},"是":{"docs":{},"知":{"docs":{},"乎":{"docs":{},"上":{"docs":{},"新":{"docs":{},"一":{"docs":{},"批":{"docs":{},"教":{"docs":{},"徒":{"docs":{},"涌":{"docs":{},"现":{"docs":{},"的":{"docs":{},"时":{"docs":{},"候":{"docs":{},"。":{"docs":{"./":{"ref":"./","tf":0.05263157894736842}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"年":{"docs":{},"轻":{"docs":{},"人":{"docs":{},"如":{"docs":{},"何":{"docs":{},"在":{"docs":{},"独":{"docs":{},"居":{"docs":{},"时":{"docs":{},"有":{"docs":{},"效":{"docs":{},"地":{"docs":{},"保":{"docs":{},"持":{"docs":{},"自":{"docs":{},"律":{"docs":{},"？":{"docs":{"../chapter1/1.1.html":{"ref":"../chapter1/1.1.html","tf":5}}}}}}}}}}}}}}}}}}},"学":{"docs":{},"习":{"docs":{},"方":{"docs":{},"法":{"docs":{},"金":{"docs":{},"字":{"docs":{},"塔":{"docs":{"../chapter1/1.2.html":{"ref":"../chapter1/1.2.html","tf":5}}}}}}}}},"自":{"docs":{},"制":{"docs":{},"力":{"docs":{},"模":{"docs":{},"型":{"docs":{"../chapter1/1.3.html":{"ref":"../chapter1/1.3.html","tf":5}}}}}}},"既":{"docs":{},"然":{"docs":{},"知":{"docs":{},"识":{"docs":{},"都":{"docs":{},"会":{"docs":{},"遗":{"docs":{},"忘":{"docs":{},"，":{"docs":{},"我":{"docs":{},"们":{"docs":{},"为":{"docs":{},"什":{"docs":{},"么":{"docs":{},"要":{"docs":{},"学":{"docs":{},"习":{"docs":{},"？":{"docs":{"chapter2/2.1.html":{"ref":"chapter2/2.1.html","tf":5}}}}}}}}}}}}}}}}}}}},"如":{"docs":{},"何":{"docs":{},"提":{"docs":{},"高":{"docs":{},"学":{"docs":{},"习":{"docs":{},"能":{"docs":{},"力":{"docs":{},"？":{"docs":{"chapter2/2.2.html":{"ref":"chapter2/2.2.html","tf":5}}}}}}}}}},"果":{"docs":{},"您":{"docs":{},"从":{"docs":{},"本":{"docs":{},"书":{"docs":{},"得":{"docs":{},"到":{"docs":{},"了":{"docs":{},"一":{"docs":{},"些":{"docs":{},"收":{"docs":{},"获":{"docs":{},"，":{"docs":{},"欢":{"docs":{},"迎":{"docs":{},"扫":{"docs":{},"码":{"docs":{},"赞":{"docs":{},"赏":{"docs":{},"我":{"docs":{},"，":{"docs":{},"您":{"docs":{},"的":{"docs":{},"支":{"docs":{},"持":{"docs":{},"会":{"docs":{},"激":{"docs":{},"励":{"docs":{},"我":{"docs":{},"创":{"docs":{},"作":{"docs":{},"更":{"docs":{},"多":{"docs":{},"优":{"docs":{},"质":{"docs":{},"内":{"docs":{},"容":{"docs":{},"。":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}},"我":{"docs":{},"考":{"docs":{},"研":{"docs":{},"的":{"docs":{},"故":{"docs":{},"事":{"docs":{"chapter3/3.1.html":{"ref":"chapter3/3.1.html","tf":5}}}}}}}},"e":{"docs":{},"p":{"docs":{},"u":{"docs":{},"b":{"docs":{},",":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}},"m":{"docs":{},"o":{"docs":{},"b":{"docs":{},"i":{"docs":{},"格":{"docs":{},"式":{"docs":{},"的":{"docs":{},"下":{"docs":{},"载":{"docs":{},"。":{"docs":{},"开":{"docs":{},"源":{"docs":{},"项":{"docs":{},"目":{"docs":{},"地":{"docs":{},"址":{"docs":{},"：":{"docs":{},"g":{"docs":{},"i":{"docs":{},"t":{"docs":{},"h":{"docs":{},"u":{"docs":{},"b":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}}}}}}}}}}}}}}}}}}},"p":{"docs":{},"d":{"docs":{},"f":{"docs":{},",":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}},"本":{"docs":{},"书":{"docs":{},"由":{"docs":{},"g":{"docs":{},"i":{"docs":{},"t":{"docs":{},"b":{"docs":{},"o":{"docs":{},"o":{"docs":{},"k":{"docs":{},"制":{"docs":{},"作":{"docs":{},"，":{"docs":{},"提":{"docs":{},"供":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}}}}}}}}}}}},"赞":{"docs":{},"赏":{"docs":{"reward.html":{"ref":"reward.html","tf":10}},"赞":{"docs":{},"赏":{"docs":{"reward.html":{"ref":"reward.html","tf":0.05555555555555555}}}}}}},"length":115},"corpusTokens":["09","1.1","1.2","1.3","10:11:24","11:16:37","11:23:19","11:24:00","11:24:24","11:24:44","16","2.1","2.2","2018","3.1","albert","copyright","epub,","gitbook该文件修订时间：","mobi格式的下载。开源项目地址：github","pdf,","reserved，pow","right","w","©","书中文章都是我在知乎的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法。","你们好些人说我是基督教的无脑黑，其实我是懒得和你们废脑子了。","你们要看我的逻辑推理，请来这里。我将我写过的百余篇文章梳理如下，方便大家阅读，也方便你们批判。","全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：github","前言","前言前言","在与新老基督徒的辩论中，你们的证据并没有更新，连论调也一模一样，我实在懒得把我两年前的文章再复述一篇，重复对我的读者也是一种罪过。","如何提高学习能力？","如果您从本书得到了一些收获，欢迎扫码赞赏我，您的支持会激励我创作更多优质内容。","学习方法金字塔","年轻人如何在独居时有效地保持自律？","我考研的故事","既然知识都会遗忘，我们为什么要学习？","本书由gitbook制作，提供","每年，新生入大学的时候，也是知乎上新一批教徒涌现的时候。","自制力模型","赞赏","赞赏赞赏"],"pipeline":["stopWordFilter","stemmer"]},"store":{"./":{"url":"./","title":"前言","keywords":"","body":"前言前言\n每年，新生入大学的时候，也是知乎上新一批教徒涌现的时候。\n在与新老基督徒的辩论中，你们的证据并没有更新，连论调也一模一样，我实在懒得把我两年前的文章再复述一篇，重复对我的读者也是一种罪过。\n你们好些人说我是基督教的无脑黑，其实我是懒得和你们废脑子了。\n你们要看我的逻辑推理，请来这里。我将我写过的百余篇文章梳理如下，方便大家阅读，也方便你们批判。\n书中文章都是我在知乎的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法。\n全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：Github\nCopyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:23:19\n"},"../chapter1/1.1.html":{"url":"../chapter1/1.1.html","title":"1.1 年轻人如何在独居时有效地保持自律？","keywords":"","body":"Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:44\n"},"../chapter1/1.2.html":{"url":"../chapter1/1.2.html","title":"1.2 学习方法金字塔","keywords":"","body":"Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:44\n"},"../chapter1/1.3.html":{"url":"../chapter1/1.3.html","title":"1.3 自制力模型","keywords":"","body":"Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:44\n"},"chapter2/2.1.html":{"url":"chapter2/2.1.html","title":"2.1 既然知识都会遗忘，我们为什么要学习？","keywords":"","body":"Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:16:37\n"},"chapter2/2.2.html":{"url":"chapter2/2.2.html","title":"2.2 如何提高学习能力？","keywords":"","body":"Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:00\n"},"chapter3/3.1.html":{"url":"chapter3/3.1.html","title":"3.1 我考研的故事","keywords":"","body":"Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:24\n"},"reward.html":{"url":"reward.html","title":"赞赏","keywords":"","body":"赞赏赞赏\n本书由gitbook制作，提供 pdf, epub, mobi格式的下载。开源项目地址：Github\n如果您从本书得到了一些收获，欢迎扫码赞赏我，您的支持会激励我创作更多优质内容。\n\n\n\n\n\n\n\n\n\n\nCopyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 10:11:24\n"}}}
+{
+  "index": {
+    "version": "0.5.12",
+    "fields": [
+      {
+        "name": "title",
+        "boost": 10
+      },
+      {
+        "name": "keywords",
+        "boost": 15
+      },
+      {
+        "name": "body",
+        "boost": 1
+      }
+    ],
+    "ref": "url",
+    "documentStore": {
+      "store": {
+        "./": [
+          "09",
+          "11:23:19",
+          "16",
+          "2018",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "书中文章都是我在知乎的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法。",
+          "你们好些人说我是基督教的无脑黑，其实我是懒得和你们废脑子了。",
+          "你们要看我的逻辑推理，请来这里。我将我写过的百余篇文章梳理如下，方便大家阅读，也方便你们批判。",
+          "全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：github",
+          "前言",
+          "前言前言",
+          "在与新老基督徒的辩论中，你们的证据并没有更新，连论调也一模一样，我实在懒得把我两年前的文章再复述一篇，重复对我的读者也是一种罪过。",
+          "每年，新生入大学的时候，也是知乎上新一批教徒涌现的时候。"
+        ],
+        "../chapter1/1.1.html": [
+          "09",
+          "1.1",
+          "11:42:46",
+          "16",
+          "2018",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "年轻人如何在独居时有效地保持自律？"
+        ],
+        "../chapter1/1.2.html": [
+          "09",
+          "1.2",
+          "11:42:46",
+          "16",
+          "2018",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "学习方法金字塔"
+        ],
+        "../chapter1/1.3.html": [
+          "09",
+          "1.3",
+          "11:42:46",
+          "16",
+          "2018",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "自制力模型"
+        ],
+        "chapter2/2.1.html": [
+          "09",
+          "11:16:37",
+          "16",
+          "2.1",
+          "2018",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "既然知识都会遗忘，我们为什么要学习？"
+        ],
+        "chapter2/2.2.html": [
+          "09",
+          "11:24:00",
+          "16",
+          "2.2",
+          "2018",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "如何提高学习能力？"
+        ],
+        "chapter3/3.1.html": [
+          "09",
+          "11:24:24",
+          "16",
+          "2018",
+          "3.1",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "我考研的故事"
+        ],
+        "chapter4/4.1.html": [
+          "09",
+          "11:43:01",
+          "16",
+          "2018",
+          "4.1",
+          "albert",
+          "copyright",
+          "gitbook该文件修订时间：",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "你有什么相见恨晚的英语学习方法？"
+        ],
+        "reward.html": [
+          "09",
+          "10:11:24",
+          "16",
+          "2018",
+          "albert",
+          "copyright",
+          "epub,",
+          "gitbook该文件修订时间：",
+          "mobi格式的下载。开源项目地址：github",
+          "pdf,",
+          "reserved，pow",
+          "right",
+          "w",
+          "©",
+          "如果您从本书得到了一些收获，欢迎扫码赞赏我，您的支持会激励我创作更多优质内容。",
+          "本书由gitbook制作，提供",
+          "赞赏",
+          "赞赏赞赏"
+        ]
+      },
+      "length": 9
+    },
+    "tokenStore": {
+      "root": {
+        "0": {
+          "9": {
+            "docs": {
+              "./": {
+                "ref": "./",
+                "tf": 0.05263157894736842
+              },
+              "../chapter1/1.1.html": {
+                "ref": "../chapter1/1.1.html",
+                "tf": 0.08333333333333333
+              },
+              "../chapter1/1.2.html": {
+                "ref": "../chapter1/1.2.html",
+                "tf": 0.08333333333333333
+              },
+              "../chapter1/1.3.html": {
+                "ref": "../chapter1/1.3.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter2/2.1.html": {
+                "ref": "chapter2/2.1.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter2/2.2.html": {
+                "ref": "chapter2/2.2.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter3/3.1.html": {
+                "ref": "chapter3/3.1.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter4/4.1.html": {
+                "ref": "chapter4/4.1.html",
+                "tf": 0.08333333333333333
+              },
+              "reward.html": {
+                "ref": "reward.html",
+                "tf": 0.05555555555555555
+              }
+            }
+          },
+          "docs": {}
+        },
+        "1": {
+          "0": {
+            "docs": {},
+            ":": {
+              "1": {
+                "1": {
+                  "docs": {},
+                  ":": {
+                    "2": {
+                      "4": {
+                        "docs": {
+                          "reward.html": {
+                            "ref": "reward.html",
+                            "tf": 0.05555555555555555
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "docs": {}
+                  }
+                },
+                "docs": {}
+              },
+              "docs": {}
+            }
+          },
+          "1": {
+            "docs": {},
+            ":": {
+              "1": {
+                "6": {
+                  "docs": {},
+                  ":": {
+                    "3": {
+                      "7": {
+                        "docs": {
+                          "chapter2/2.1.html": {
+                            "ref": "chapter2/2.1.html",
+                            "tf": 0.08333333333333333
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "docs": {}
+                  }
+                },
+                "docs": {}
+              },
+              "2": {
+                "3": {
+                  "docs": {},
+                  ":": {
+                    "1": {
+                      "9": {
+                        "docs": {
+                          "./": {
+                            "ref": "./",
+                            "tf": 0.05263157894736842
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "docs": {}
+                  }
+                },
+                "4": {
+                  "docs": {},
+                  ":": {
+                    "0": {
+                      "0": {
+                        "docs": {
+                          "chapter2/2.2.html": {
+                            "ref": "chapter2/2.2.html",
+                            "tf": 0.08333333333333333
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "2": {
+                      "4": {
+                        "docs": {
+                          "chapter3/3.1.html": {
+                            "ref": "chapter3/3.1.html",
+                            "tf": 0.08333333333333333
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "docs": {}
+                  }
+                },
+                "docs": {}
+              },
+              "4": {
+                "2": {
+                  "docs": {},
+                  ":": {
+                    "4": {
+                      "6": {
+                        "docs": {
+                          "../chapter1/1.1.html": {
+                            "ref": "../chapter1/1.1.html",
+                            "tf": 0.08333333333333333
+                          },
+                          "../chapter1/1.2.html": {
+                            "ref": "../chapter1/1.2.html",
+                            "tf": 0.08333333333333333
+                          },
+                          "../chapter1/1.3.html": {
+                            "ref": "../chapter1/1.3.html",
+                            "tf": 0.08333333333333333
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "docs": {}
+                  }
+                },
+                "3": {
+                  "docs": {},
+                  ":": {
+                    "0": {
+                      "1": {
+                        "docs": {
+                          "chapter4/4.1.html": {
+                            "ref": "chapter4/4.1.html",
+                            "tf": 0.08333333333333333
+                          }
+                        }
+                      },
+                      "docs": {}
+                    },
+                    "docs": {}
+                  }
+                },
+                "docs": {}
+              },
+              "docs": {}
+            }
+          },
+          "6": {
+            "docs": {
+              "./": {
+                "ref": "./",
+                "tf": 0.05263157894736842
+              },
+              "../chapter1/1.1.html": {
+                "ref": "../chapter1/1.1.html",
+                "tf": 0.08333333333333333
+              },
+              "../chapter1/1.2.html": {
+                "ref": "../chapter1/1.2.html",
+                "tf": 0.08333333333333333
+              },
+              "../chapter1/1.3.html": {
+                "ref": "../chapter1/1.3.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter2/2.1.html": {
+                "ref": "chapter2/2.1.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter2/2.2.html": {
+                "ref": "chapter2/2.2.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter3/3.1.html": {
+                "ref": "chapter3/3.1.html",
+                "tf": 0.08333333333333333
+              },
+              "chapter4/4.1.html": {
+                "ref": "chapter4/4.1.html",
+                "tf": 0.08333333333333333
+              },
+              "reward.html": {
+                "ref": "reward.html",
+                "tf": 0.05555555555555555
+              }
+            }
+          },
+          "docs": {},
+          ".": {
+            "1": {
+              "docs": {
+                "../chapter1/1.1.html": {
+                  "ref": "../chapter1/1.1.html",
+                  "tf": 5
+                }
+              }
+            },
+            "2": {
+              "docs": {
+                "../chapter1/1.2.html": {
+                  "ref": "../chapter1/1.2.html",
+                  "tf": 5
+                }
+              }
+            },
+            "3": {
+              "docs": {
+                "../chapter1/1.3.html": {
+                  "ref": "../chapter1/1.3.html",
+                  "tf": 5
+                }
+              }
+            },
+            "docs": {}
+          }
+        },
+        "2": {
+          "0": {
+            "1": {
+              "8": {
+                "docs": {
+                  "./": {
+                    "ref": "./",
+                    "tf": 0.10526315789473684
+                  },
+                  "../chapter1/1.1.html": {
+                    "ref": "../chapter1/1.1.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "../chapter1/1.2.html": {
+                    "ref": "../chapter1/1.2.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "../chapter1/1.3.html": {
+                    "ref": "../chapter1/1.3.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "chapter2/2.1.html": {
+                    "ref": "chapter2/2.1.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "chapter2/2.2.html": {
+                    "ref": "chapter2/2.2.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "chapter3/3.1.html": {
+                    "ref": "chapter3/3.1.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "chapter4/4.1.html": {
+                    "ref": "chapter4/4.1.html",
+                    "tf": 0.16666666666666666
+                  },
+                  "reward.html": {
+                    "ref": "reward.html",
+                    "tf": 0.1111111111111111
+                  }
+                }
+              },
+              "docs": {}
+            },
+            "docs": {}
+          },
+          "docs": {},
+          ".": {
+            "1": {
+              "docs": {
+                "chapter2/2.1.html": {
+                  "ref": "chapter2/2.1.html",
+                  "tf": 5
+                }
+              }
+            },
+            "2": {
+              "docs": {
+                "chapter2/2.2.html": {
+                  "ref": "chapter2/2.2.html",
+                  "tf": 5
+                }
+              }
+            },
+            "docs": {}
+          }
+        },
+        "3": {
+          "docs": {},
+          ".": {
+            "1": {
+              "docs": {
+                "chapter3/3.1.html": {
+                  "ref": "chapter3/3.1.html",
+                  "tf": 5
+                }
+              }
+            },
+            "docs": {}
+          }
+        },
+        "4": {
+          "docs": {},
+          ".": {
+            "1": {
+              "docs": {
+                "chapter4/4.1.html": {
+                  "ref": "chapter4/4.1.html",
+                  "tf": 5
+                }
+              }
+            },
+            "docs": {}
+          }
+        },
+        "docs": {},
+        "a": {
+          "docs": {},
+          "l": {
+            "docs": {},
+            "b": {
+              "docs": {},
+              "e": {
+                "docs": {},
+                "r": {
+                  "docs": {},
+                  "t": {
+                    "docs": {
+                      "./": {
+                        "ref": "./",
+                        "tf": 0.05263157894736842
+                      },
+                      "../chapter1/1.1.html": {
+                        "ref": "../chapter1/1.1.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "../chapter1/1.2.html": {
+                        "ref": "../chapter1/1.2.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "../chapter1/1.3.html": {
+                        "ref": "../chapter1/1.3.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "chapter2/2.1.html": {
+                        "ref": "chapter2/2.1.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "chapter2/2.2.html": {
+                        "ref": "chapter2/2.2.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "chapter3/3.1.html": {
+                        "ref": "chapter3/3.1.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "chapter4/4.1.html": {
+                        "ref": "chapter4/4.1.html",
+                        "tf": 0.08333333333333333
+                      },
+                      "reward.html": {
+                        "ref": "reward.html",
+                        "tf": 0.05555555555555555
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "c": {
+          "docs": {},
+          "o": {
+            "docs": {},
+            "p": {
+              "docs": {},
+              "y": {
+                "docs": {},
+                "r": {
+                  "docs": {},
+                  "i": {
+                    "docs": {},
+                    "g": {
+                      "docs": {},
+                      "h": {
+                        "docs": {},
+                        "t": {
+                          "docs": {
+                            "./": {
+                              "ref": "./",
+                              "tf": 0.05263157894736842
+                            },
+                            "../chapter1/1.1.html": {
+                              "ref": "../chapter1/1.1.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "../chapter1/1.2.html": {
+                              "ref": "../chapter1/1.2.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "../chapter1/1.3.html": {
+                              "ref": "../chapter1/1.3.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "chapter2/2.1.html": {
+                              "ref": "chapter2/2.1.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "chapter2/2.2.html": {
+                              "ref": "chapter2/2.2.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "chapter3/3.1.html": {
+                              "ref": "chapter3/3.1.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "chapter4/4.1.html": {
+                              "ref": "chapter4/4.1.html",
+                              "tf": 0.08333333333333333
+                            },
+                            "reward.html": {
+                              "ref": "reward.html",
+                              "tf": 0.05555555555555555
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "g": {
+          "docs": {},
+          "i": {
+            "docs": {},
+            "t": {
+              "docs": {},
+              "b": {
+                "docs": {},
+                "o": {
+                  "docs": {},
+                  "o": {
+                    "docs": {},
+                    "k": {
+                      "docs": {},
+                      "该": {
+                        "docs": {},
+                        "文": {
+                          "docs": {},
+                          "件": {
+                            "docs": {},
+                            "修": {
+                              "docs": {},
+                              "订": {
+                                "docs": {},
+                                "时": {
+                                  "docs": {},
+                                  "间": {
+                                    "docs": {},
+                                    "：": {
+                                      "docs": {
+                                        "./": {
+                                          "ref": "./",
+                                          "tf": 0.05263157894736842
+                                        },
+                                        "../chapter1/1.1.html": {
+                                          "ref": "../chapter1/1.1.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "../chapter1/1.2.html": {
+                                          "ref": "../chapter1/1.2.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "../chapter1/1.3.html": {
+                                          "ref": "../chapter1/1.3.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "chapter2/2.1.html": {
+                                          "ref": "chapter2/2.1.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "chapter2/2.2.html": {
+                                          "ref": "chapter2/2.2.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "chapter3/3.1.html": {
+                                          "ref": "chapter3/3.1.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "chapter4/4.1.html": {
+                                          "ref": "chapter4/4.1.html",
+                                          "tf": 0.08333333333333333
+                                        },
+                                        "reward.html": {
+                                          "ref": "reward.html",
+                                          "tf": 0.05555555555555555
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "r": {
+          "docs": {},
+          "e": {
+            "docs": {},
+            "s": {
+              "docs": {},
+              "e": {
+                "docs": {},
+                "r": {
+                  "docs": {},
+                  "v": {
+                    "docs": {},
+                    "e": {
+                      "docs": {},
+                      "d": {
+                        "docs": {},
+                        "，": {
+                          "docs": {},
+                          "p": {
+                            "docs": {},
+                            "o": {
+                              "docs": {},
+                              "w": {
+                                "docs": {
+                                  "./": {
+                                    "ref": "./",
+                                    "tf": 0.05263157894736842
+                                  },
+                                  "../chapter1/1.1.html": {
+                                    "ref": "../chapter1/1.1.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "../chapter1/1.2.html": {
+                                    "ref": "../chapter1/1.2.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "../chapter1/1.3.html": {
+                                    "ref": "../chapter1/1.3.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "chapter2/2.1.html": {
+                                    "ref": "chapter2/2.1.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "chapter2/2.2.html": {
+                                    "ref": "chapter2/2.2.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "chapter3/3.1.html": {
+                                    "ref": "chapter3/3.1.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "chapter4/4.1.html": {
+                                    "ref": "chapter4/4.1.html",
+                                    "tf": 0.08333333333333333
+                                  },
+                                  "reward.html": {
+                                    "ref": "reward.html",
+                                    "tf": 0.05555555555555555
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "i": {
+            "docs": {},
+            "g": {
+              "docs": {},
+              "h": {
+                "docs": {},
+                "t": {
+                  "docs": {
+                    "./": {
+                      "ref": "./",
+                      "tf": 0.05263157894736842
+                    },
+                    "../chapter1/1.1.html": {
+                      "ref": "../chapter1/1.1.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "../chapter1/1.2.html": {
+                      "ref": "../chapter1/1.2.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "../chapter1/1.3.html": {
+                      "ref": "../chapter1/1.3.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "chapter2/2.1.html": {
+                      "ref": "chapter2/2.1.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "chapter2/2.2.html": {
+                      "ref": "chapter2/2.2.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "chapter3/3.1.html": {
+                      "ref": "chapter3/3.1.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "chapter4/4.1.html": {
+                      "ref": "chapter4/4.1.html",
+                      "tf": 0.08333333333333333
+                    },
+                    "reward.html": {
+                      "ref": "reward.html",
+                      "tf": 0.05555555555555555
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "w": {
+          "docs": {
+            "./": {
+              "ref": "./",
+              "tf": 0.05263157894736842
+            },
+            "../chapter1/1.1.html": {
+              "ref": "../chapter1/1.1.html",
+              "tf": 0.08333333333333333
+            },
+            "../chapter1/1.2.html": {
+              "ref": "../chapter1/1.2.html",
+              "tf": 0.08333333333333333
+            },
+            "../chapter1/1.3.html": {
+              "ref": "../chapter1/1.3.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter2/2.1.html": {
+              "ref": "chapter2/2.1.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter2/2.2.html": {
+              "ref": "chapter2/2.2.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter3/3.1.html": {
+              "ref": "chapter3/3.1.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter4/4.1.html": {
+              "ref": "chapter4/4.1.html",
+              "tf": 0.08333333333333333
+            },
+            "reward.html": {
+              "ref": "reward.html",
+              "tf": 0.05555555555555555
+            }
+          }
+        },
+        "©": {
+          "docs": {
+            "./": {
+              "ref": "./",
+              "tf": 0.05263157894736842
+            },
+            "../chapter1/1.1.html": {
+              "ref": "../chapter1/1.1.html",
+              "tf": 0.08333333333333333
+            },
+            "../chapter1/1.2.html": {
+              "ref": "../chapter1/1.2.html",
+              "tf": 0.08333333333333333
+            },
+            "../chapter1/1.3.html": {
+              "ref": "../chapter1/1.3.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter2/2.1.html": {
+              "ref": "chapter2/2.1.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter2/2.2.html": {
+              "ref": "chapter2/2.2.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter3/3.1.html": {
+              "ref": "chapter3/3.1.html",
+              "tf": 0.08333333333333333
+            },
+            "chapter4/4.1.html": {
+              "ref": "chapter4/4.1.html",
+              "tf": 0.08333333333333333
+            },
+            "reward.html": {
+              "ref": "reward.html",
+              "tf": 0.05555555555555555
+            }
+          }
+        },
+        "书": {
+          "docs": {},
+          "中": {
+            "docs": {},
+            "文": {
+              "docs": {},
+              "章": {
+                "docs": {},
+                "都": {
+                  "docs": {},
+                  "是": {
+                    "docs": {},
+                    "我": {
+                      "docs": {},
+                      "在": {
+                        "docs": {},
+                        "知": {
+                          "docs": {},
+                          "乎": {
+                            "docs": {},
+                            "的": {
+                              "docs": {},
+                              "回": {
+                                "docs": {},
+                                "答": {
+                                  "docs": {},
+                                  "，": {
+                                    "docs": {},
+                                    "内": {
+                                      "docs": {},
+                                      "容": {
+                                        "docs": {},
+                                        "有": {
+                                          "docs": {},
+                                          "些": {
+                                            "docs": {},
+                                            "许": {
+                                              "docs": {},
+                                              "重": {
+                                                "docs": {},
+                                                "复": {
+                                                  "docs": {},
+                                                  ",": {
+                                                    "docs": {},
+                                                    "希": {
+                                                      "docs": {},
+                                                      "望": {
+                                                        "docs": {},
+                                                        "大": {
+                                                          "docs": {},
+                                                          "家": {
+                                                            "docs": {},
+                                                            "海": {
+                                                              "docs": {},
+                                                              "涵": {
+                                                                "docs": {},
+                                                                "。": {
+                                                                  "docs": {},
+                                                                  "另": {
+                                                                    "docs": {},
+                                                                    "一": {
+                                                                      "docs": {},
+                                                                      "方": {
+                                                                        "docs": {},
+                                                                        "面": {
+                                                                          "docs": {},
+                                                                          "，": {
+                                                                            "docs": {},
+                                                                            "重": {
+                                                                              "docs": {},
+                                                                              "复": {
+                                                                                "docs": {},
+                                                                                "的": {
+                                                                                  "docs": {},
+                                                                                  "内": {
+                                                                                    "docs": {},
+                                                                                    "容": {
+                                                                                      "docs": {},
+                                                                                      "正": {
+                                                                                        "docs": {},
+                                                                                        "是": {
+                                                                                          "docs": {},
+                                                                                          "影": {
+                                                                                            "docs": {},
+                                                                                            "响": {
+                                                                                              "docs": {},
+                                                                                              "我": {
+                                                                                                "docs": {},
+                                                                                                "最": {
+                                                                                                  "docs": {},
+                                                                                                  "深": {
+                                                                                                    "docs": {},
+                                                                                                    "的": {
+                                                                                                      "docs": {},
+                                                                                                      "观": {
+                                                                                                        "docs": {},
+                                                                                                        "念": {
+                                                                                                          "docs": {},
+                                                                                                          "和": {
+                                                                                                            "docs": {},
+                                                                                                            "想": {
+                                                                                                              "docs": {},
+                                                                                                              "法": {
+                                                                                                                "docs": {},
+                                                                                                                "。": {
+                                                                                                                  "docs": {
+                                                                                                                    "./": {
+                                                                                                                      "ref": "./",
+                                                                                                                      "tf": 0.05263157894736842
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "你": {
+          "docs": {},
+          "们": {
+            "docs": {},
+            "好": {
+              "docs": {},
+              "些": {
+                "docs": {},
+                "人": {
+                  "docs": {},
+                  "说": {
+                    "docs": {},
+                    "我": {
+                      "docs": {},
+                      "是": {
+                        "docs": {},
+                        "基": {
+                          "docs": {},
+                          "督": {
+                            "docs": {},
+                            "教": {
+                              "docs": {},
+                              "的": {
+                                "docs": {},
+                                "无": {
+                                  "docs": {},
+                                  "脑": {
+                                    "docs": {},
+                                    "黑": {
+                                      "docs": {},
+                                      "，": {
+                                        "docs": {},
+                                        "其": {
+                                          "docs": {},
+                                          "实": {
+                                            "docs": {},
+                                            "我": {
+                                              "docs": {},
+                                              "是": {
+                                                "docs": {},
+                                                "懒": {
+                                                  "docs": {},
+                                                  "得": {
+                                                    "docs": {},
+                                                    "和": {
+                                                      "docs": {},
+                                                      "你": {
+                                                        "docs": {},
+                                                        "们": {
+                                                          "docs": {},
+                                                          "废": {
+                                                            "docs": {},
+                                                            "脑": {
+                                                              "docs": {},
+                                                              "子": {
+                                                                "docs": {},
+                                                                "了": {
+                                                                  "docs": {},
+                                                                  "。": {
+                                                                    "docs": {
+                                                                      "./": {
+                                                                        "ref": "./",
+                                                                        "tf": 0.05263157894736842
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "要": {
+              "docs": {},
+              "看": {
+                "docs": {},
+                "我": {
+                  "docs": {},
+                  "的": {
+                    "docs": {},
+                    "逻": {
+                      "docs": {},
+                      "辑": {
+                        "docs": {},
+                        "推": {
+                          "docs": {},
+                          "理": {
+                            "docs": {},
+                            "，": {
+                              "docs": {},
+                              "请": {
+                                "docs": {},
+                                "来": {
+                                  "docs": {},
+                                  "这": {
+                                    "docs": {},
+                                    "里": {
+                                      "docs": {},
+                                      "。": {
+                                        "docs": {},
+                                        "我": {
+                                          "docs": {},
+                                          "将": {
+                                            "docs": {},
+                                            "我": {
+                                              "docs": {},
+                                              "写": {
+                                                "docs": {},
+                                                "过": {
+                                                  "docs": {},
+                                                  "的": {
+                                                    "docs": {},
+                                                    "百": {
+                                                      "docs": {},
+                                                      "余": {
+                                                        "docs": {},
+                                                        "篇": {
+                                                          "docs": {},
+                                                          "文": {
+                                                            "docs": {},
+                                                            "章": {
+                                                              "docs": {},
+                                                              "梳": {
+                                                                "docs": {},
+                                                                "理": {
+                                                                  "docs": {},
+                                                                  "如": {
+                                                                    "docs": {},
+                                                                    "下": {
+                                                                      "docs": {},
+                                                                      "，": {
+                                                                        "docs": {},
+                                                                        "方": {
+                                                                          "docs": {},
+                                                                          "便": {
+                                                                            "docs": {},
+                                                                            "大": {
+                                                                              "docs": {},
+                                                                              "家": {
+                                                                                "docs": {},
+                                                                                "阅": {
+                                                                                  "docs": {},
+                                                                                  "读": {
+                                                                                    "docs": {},
+                                                                                    "，": {
+                                                                                      "docs": {},
+                                                                                      "也": {
+                                                                                        "docs": {},
+                                                                                        "方": {
+                                                                                          "docs": {},
+                                                                                          "便": {
+                                                                                            "docs": {},
+                                                                                            "你": {
+                                                                                              "docs": {},
+                                                                                              "们": {
+                                                                                                "docs": {},
+                                                                                                "批": {
+                                                                                                  "docs": {},
+                                                                                                  "判": {
+                                                                                                    "docs": {},
+                                                                                                    "。": {
+                                                                                                      "docs": {
+                                                                                                        "./": {
+                                                                                                          "ref": "./",
+                                                                                                          "tf": 0.05263157894736842
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "有": {
+            "docs": {},
+            "什": {
+              "docs": {},
+              "么": {
+                "docs": {},
+                "相": {
+                  "docs": {},
+                  "见": {
+                    "docs": {},
+                    "恨": {
+                      "docs": {},
+                      "晚": {
+                        "docs": {},
+                        "的": {
+                          "docs": {},
+                          "英": {
+                            "docs": {},
+                            "语": {
+                              "docs": {},
+                              "学": {
+                                "docs": {},
+                                "习": {
+                                  "docs": {},
+                                  "方": {
+                                    "docs": {},
+                                    "法": {
+                                      "docs": {},
+                                      "？": {
+                                        "docs": {
+                                          "chapter4/4.1.html": {
+                                            "ref": "chapter4/4.1.html",
+                                            "tf": 5
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "全": {
+          "docs": {},
+          "书": {
+            "docs": {},
+            "由": {
+              "docs": {},
+              "我": {
+                "docs": {},
+                "个": {
+                  "docs": {},
+                  "人": {
+                    "docs": {},
+                    "编": {
+                      "docs": {},
+                      "辑": {
+                        "docs": {},
+                        "校": {
+                          "docs": {},
+                          "对": {
+                            "docs": {},
+                            "，": {
+                              "docs": {},
+                              "难": {
+                                "docs": {},
+                                "免": {
+                                  "docs": {},
+                                  "有": {
+                                    "docs": {},
+                                    "纰": {
+                                      "docs": {},
+                                      "漏": {
+                                        "docs": {},
+                                        "错": {
+                                          "docs": {},
+                                          "误": {
+                                            "docs": {},
+                                            "。": {
+                                              "docs": {},
+                                              "希": {
+                                                "docs": {},
+                                                "望": {
+                                                  "docs": {},
+                                                  "读": {
+                                                    "docs": {},
+                                                    "者": {
+                                                      "docs": {},
+                                                      "朋": {
+                                                        "docs": {},
+                                                        "友": {
+                                                          "docs": {},
+                                                          "们": {
+                                                            "docs": {},
+                                                            "不": {
+                                                              "docs": {},
+                                                              "吝": {
+                                                                "docs": {},
+                                                                "赐": {
+                                                                  "docs": {},
+                                                                  "教": {
+                                                                    "docs": {},
+                                                                    "。": {
+                                                                      "docs": {},
+                                                                      "文": {
+                                                                        "docs": {},
+                                                                        "章": {
+                                                                          "docs": {},
+                                                                          "统": {
+                                                                            "docs": {},
+                                                                            "一": {
+                                                                              "docs": {},
+                                                                              "反": {
+                                                                                "docs": {},
+                                                                                "馈": {
+                                                                                  "docs": {},
+                                                                                  "交": {
+                                                                                    "docs": {},
+                                                                                    "流": {
+                                                                                      "docs": {},
+                                                                                      "区": {
+                                                                                        "docs": {},
+                                                                                        "：": {
+                                                                                          "docs": {},
+                                                                                          "g": {
+                                                                                            "docs": {},
+                                                                                            "i": {
+                                                                                              "docs": {},
+                                                                                              "t": {
+                                                                                                "docs": {},
+                                                                                                "h": {
+                                                                                                  "docs": {},
+                                                                                                  "u": {
+                                                                                                    "docs": {},
+                                                                                                    "b": {
+                                                                                                      "docs": {
+                                                                                                        "./": {
+                                                                                                          "ref": "./",
+                                                                                                          "tf": 0.05263157894736842
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "前": {
+          "docs": {},
+          "言": {
+            "docs": {
+              "./": {
+                "ref": "./",
+                "tf": 10
+              }
+            },
+            "前": {
+              "docs": {},
+              "言": {
+                "docs": {
+                  "./": {
+                    "ref": "./",
+                    "tf": 0.05263157894736842
+                  }
+                }
+              }
+            }
+          }
+        },
+        "在": {
+          "docs": {},
+          "与": {
+            "docs": {},
+            "新": {
+              "docs": {},
+              "老": {
+                "docs": {},
+                "基": {
+                  "docs": {},
+                  "督": {
+                    "docs": {},
+                    "徒": {
+                      "docs": {},
+                      "的": {
+                        "docs": {},
+                        "辩": {
+                          "docs": {},
+                          "论": {
+                            "docs": {},
+                            "中": {
+                              "docs": {},
+                              "，": {
+                                "docs": {},
+                                "你": {
+                                  "docs": {},
+                                  "们": {
+                                    "docs": {},
+                                    "的": {
+                                      "docs": {},
+                                      "证": {
+                                        "docs": {},
+                                        "据": {
+                                          "docs": {},
+                                          "并": {
+                                            "docs": {},
+                                            "没": {
+                                              "docs": {},
+                                              "有": {
+                                                "docs": {},
+                                                "更": {
+                                                  "docs": {},
+                                                  "新": {
+                                                    "docs": {},
+                                                    "，": {
+                                                      "docs": {},
+                                                      "连": {
+                                                        "docs": {},
+                                                        "论": {
+                                                          "docs": {},
+                                                          "调": {
+                                                            "docs": {},
+                                                            "也": {
+                                                              "docs": {},
+                                                              "一": {
+                                                                "docs": {},
+                                                                "模": {
+                                                                  "docs": {},
+                                                                  "一": {
+                                                                    "docs": {},
+                                                                    "样": {
+                                                                      "docs": {},
+                                                                      "，": {
+                                                                        "docs": {},
+                                                                        "我": {
+                                                                          "docs": {},
+                                                                          "实": {
+                                                                            "docs": {},
+                                                                            "在": {
+                                                                              "docs": {},
+                                                                              "懒": {
+                                                                                "docs": {},
+                                                                                "得": {
+                                                                                  "docs": {},
+                                                                                  "把": {
+                                                                                    "docs": {},
+                                                                                    "我": {
+                                                                                      "docs": {},
+                                                                                      "两": {
+                                                                                        "docs": {},
+                                                                                        "年": {
+                                                                                          "docs": {},
+                                                                                          "前": {
+                                                                                            "docs": {},
+                                                                                            "的": {
+                                                                                              "docs": {},
+                                                                                              "文": {
+                                                                                                "docs": {},
+                                                                                                "章": {
+                                                                                                  "docs": {},
+                                                                                                  "再": {
+                                                                                                    "docs": {},
+                                                                                                    "复": {
+                                                                                                      "docs": {},
+                                                                                                      "述": {
+                                                                                                        "docs": {},
+                                                                                                        "一": {
+                                                                                                          "docs": {},
+                                                                                                          "篇": {
+                                                                                                            "docs": {},
+                                                                                                            "，": {
+                                                                                                              "docs": {},
+                                                                                                              "重": {
+                                                                                                                "docs": {},
+                                                                                                                "复": {
+                                                                                                                  "docs": {},
+                                                                                                                  "对": {
+                                                                                                                    "docs": {},
+                                                                                                                    "我": {
+                                                                                                                      "docs": {},
+                                                                                                                      "的": {
+                                                                                                                        "docs": {},
+                                                                                                                        "读": {
+                                                                                                                          "docs": {},
+                                                                                                                          "者": {
+                                                                                                                            "docs": {},
+                                                                                                                            "也": {
+                                                                                                                              "docs": {},
+                                                                                                                              "是": {
+                                                                                                                                "docs": {},
+                                                                                                                                "一": {
+                                                                                                                                  "docs": {},
+                                                                                                                                  "种": {
+                                                                                                                                    "docs": {},
+                                                                                                                                    "罪": {
+                                                                                                                                      "docs": {},
+                                                                                                                                      "过": {
+                                                                                                                                        "docs": {},
+                                                                                                                                        "。": {
+                                                                                                                                          "docs": {
+                                                                                                                                            "./": {
+                                                                                                                                              "ref": "./",
+                                                                                                                                              "tf": 0.05263157894736842
+                                                                                                                                            }
+                                                                                                                                          }
+                                                                                                                                        }
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                          }
+                                                                                                                        }
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "每": {
+          "docs": {},
+          "年": {
+            "docs": {},
+            "，": {
+              "docs": {},
+              "新": {
+                "docs": {},
+                "生": {
+                  "docs": {},
+                  "入": {
+                    "docs": {},
+                    "大": {
+                      "docs": {},
+                      "学": {
+                        "docs": {},
+                        "的": {
+                          "docs": {},
+                          "时": {
+                            "docs": {},
+                            "候": {
+                              "docs": {},
+                              "，": {
+                                "docs": {},
+                                "也": {
+                                  "docs": {},
+                                  "是": {
+                                    "docs": {},
+                                    "知": {
+                                      "docs": {},
+                                      "乎": {
+                                        "docs": {},
+                                        "上": {
+                                          "docs": {},
+                                          "新": {
+                                            "docs": {},
+                                            "一": {
+                                              "docs": {},
+                                              "批": {
+                                                "docs": {},
+                                                "教": {
+                                                  "docs": {},
+                                                  "徒": {
+                                                    "docs": {},
+                                                    "涌": {
+                                                      "docs": {},
+                                                      "现": {
+                                                        "docs": {},
+                                                        "的": {
+                                                          "docs": {},
+                                                          "时": {
+                                                            "docs": {},
+                                                            "候": {
+                                                              "docs": {},
+                                                              "。": {
+                                                                "docs": {
+                                                                  "./": {
+                                                                    "ref": "./",
+                                                                    "tf": 0.05263157894736842
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "年": {
+          "docs": {},
+          "轻": {
+            "docs": {},
+            "人": {
+              "docs": {},
+              "如": {
+                "docs": {},
+                "何": {
+                  "docs": {},
+                  "在": {
+                    "docs": {},
+                    "独": {
+                      "docs": {},
+                      "居": {
+                        "docs": {},
+                        "时": {
+                          "docs": {},
+                          "有": {
+                            "docs": {},
+                            "效": {
+                              "docs": {},
+                              "地": {
+                                "docs": {},
+                                "保": {
+                                  "docs": {},
+                                  "持": {
+                                    "docs": {},
+                                    "自": {
+                                      "docs": {},
+                                      "律": {
+                                        "docs": {},
+                                        "？": {
+                                          "docs": {
+                                            "../chapter1/1.1.html": {
+                                              "ref": "../chapter1/1.1.html",
+                                              "tf": 5
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "学": {
+          "docs": {},
+          "习": {
+            "docs": {},
+            "方": {
+              "docs": {},
+              "法": {
+                "docs": {},
+                "金": {
+                  "docs": {},
+                  "字": {
+                    "docs": {},
+                    "塔": {
+                      "docs": {
+                        "../chapter1/1.2.html": {
+                          "ref": "../chapter1/1.2.html",
+                          "tf": 5
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "自": {
+          "docs": {},
+          "制": {
+            "docs": {},
+            "力": {
+              "docs": {},
+              "模": {
+                "docs": {},
+                "型": {
+                  "docs": {
+                    "../chapter1/1.3.html": {
+                      "ref": "../chapter1/1.3.html",
+                      "tf": 5
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "既": {
+          "docs": {},
+          "然": {
+            "docs": {},
+            "知": {
+              "docs": {},
+              "识": {
+                "docs": {},
+                "都": {
+                  "docs": {},
+                  "会": {
+                    "docs": {},
+                    "遗": {
+                      "docs": {},
+                      "忘": {
+                        "docs": {},
+                        "，": {
+                          "docs": {},
+                          "我": {
+                            "docs": {},
+                            "们": {
+                              "docs": {},
+                              "为": {
+                                "docs": {},
+                                "什": {
+                                  "docs": {},
+                                  "么": {
+                                    "docs": {},
+                                    "要": {
+                                      "docs": {},
+                                      "学": {
+                                        "docs": {},
+                                        "习": {
+                                          "docs": {},
+                                          "？": {
+                                            "docs": {
+                                              "chapter2/2.1.html": {
+                                                "ref": "chapter2/2.1.html",
+                                                "tf": 5
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "如": {
+          "docs": {},
+          "何": {
+            "docs": {},
+            "提": {
+              "docs": {},
+              "高": {
+                "docs": {},
+                "学": {
+                  "docs": {},
+                  "习": {
+                    "docs": {},
+                    "能": {
+                      "docs": {},
+                      "力": {
+                        "docs": {},
+                        "？": {
+                          "docs": {
+                            "chapter2/2.2.html": {
+                              "ref": "chapter2/2.2.html",
+                              "tf": 5
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "果": {
+            "docs": {},
+            "您": {
+              "docs": {},
+              "从": {
+                "docs": {},
+                "本": {
+                  "docs": {},
+                  "书": {
+                    "docs": {},
+                    "得": {
+                      "docs": {},
+                      "到": {
+                        "docs": {},
+                        "了": {
+                          "docs": {},
+                          "一": {
+                            "docs": {},
+                            "些": {
+                              "docs": {},
+                              "收": {
+                                "docs": {},
+                                "获": {
+                                  "docs": {},
+                                  "，": {
+                                    "docs": {},
+                                    "欢": {
+                                      "docs": {},
+                                      "迎": {
+                                        "docs": {},
+                                        "扫": {
+                                          "docs": {},
+                                          "码": {
+                                            "docs": {},
+                                            "赞": {
+                                              "docs": {},
+                                              "赏": {
+                                                "docs": {},
+                                                "我": {
+                                                  "docs": {},
+                                                  "，": {
+                                                    "docs": {},
+                                                    "您": {
+                                                      "docs": {},
+                                                      "的": {
+                                                        "docs": {},
+                                                        "支": {
+                                                          "docs": {},
+                                                          "持": {
+                                                            "docs": {},
+                                                            "会": {
+                                                              "docs": {},
+                                                              "激": {
+                                                                "docs": {},
+                                                                "励": {
+                                                                  "docs": {},
+                                                                  "我": {
+                                                                    "docs": {},
+                                                                    "创": {
+                                                                      "docs": {},
+                                                                      "作": {
+                                                                        "docs": {},
+                                                                        "更": {
+                                                                          "docs": {},
+                                                                          "多": {
+                                                                            "docs": {},
+                                                                            "优": {
+                                                                              "docs": {},
+                                                                              "质": {
+                                                                                "docs": {},
+                                                                                "内": {
+                                                                                  "docs": {},
+                                                                                  "容": {
+                                                                                    "docs": {},
+                                                                                    "。": {
+                                                                                      "docs": {
+                                                                                        "reward.html": {
+                                                                                          "ref": "reward.html",
+                                                                                          "tf": 0.05555555555555555
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "我": {
+          "docs": {},
+          "考": {
+            "docs": {},
+            "研": {
+              "docs": {},
+              "的": {
+                "docs": {},
+                "故": {
+                  "docs": {},
+                  "事": {
+                    "docs": {
+                      "chapter3/3.1.html": {
+                        "ref": "chapter3/3.1.html",
+                        "tf": 5
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "e": {
+          "docs": {},
+          "p": {
+            "docs": {},
+            "u": {
+              "docs": {},
+              "b": {
+                "docs": {},
+                ",": {
+                  "docs": {
+                    "reward.html": {
+                      "ref": "reward.html",
+                      "tf": 0.05555555555555555
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "m": {
+          "docs": {},
+          "o": {
+            "docs": {},
+            "b": {
+              "docs": {},
+              "i": {
+                "docs": {},
+                "格": {
+                  "docs": {},
+                  "式": {
+                    "docs": {},
+                    "的": {
+                      "docs": {},
+                      "下": {
+                        "docs": {},
+                        "载": {
+                          "docs": {},
+                          "。": {
+                            "docs": {},
+                            "开": {
+                              "docs": {},
+                              "源": {
+                                "docs": {},
+                                "项": {
+                                  "docs": {},
+                                  "目": {
+                                    "docs": {},
+                                    "地": {
+                                      "docs": {},
+                                      "址": {
+                                        "docs": {},
+                                        "：": {
+                                          "docs": {},
+                                          "g": {
+                                            "docs": {},
+                                            "i": {
+                                              "docs": {},
+                                              "t": {
+                                                "docs": {},
+                                                "h": {
+                                                  "docs": {},
+                                                  "u": {
+                                                    "docs": {},
+                                                    "b": {
+                                                      "docs": {
+                                                        "reward.html": {
+                                                          "ref": "reward.html",
+                                                          "tf": 0.05555555555555555
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "p": {
+          "docs": {},
+          "d": {
+            "docs": {},
+            "f": {
+              "docs": {},
+              ",": {
+                "docs": {
+                  "reward.html": {
+                    "ref": "reward.html",
+                    "tf": 0.05555555555555555
+                  }
+                }
+              }
+            }
+          }
+        },
+        "本": {
+          "docs": {},
+          "书": {
+            "docs": {},
+            "由": {
+              "docs": {},
+              "g": {
+                "docs": {},
+                "i": {
+                  "docs": {},
+                  "t": {
+                    "docs": {},
+                    "b": {
+                      "docs": {},
+                      "o": {
+                        "docs": {},
+                        "o": {
+                          "docs": {},
+                          "k": {
+                            "docs": {},
+                            "制": {
+                              "docs": {},
+                              "作": {
+                                "docs": {},
+                                "，": {
+                                  "docs": {},
+                                  "提": {
+                                    "docs": {},
+                                    "供": {
+                                      "docs": {
+                                        "reward.html": {
+                                          "ref": "reward.html",
+                                          "tf": 0.05555555555555555
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "赞": {
+          "docs": {},
+          "赏": {
+            "docs": {
+              "reward.html": {
+                "ref": "reward.html",
+                "tf": 10
+              }
+            },
+            "赞": {
+              "docs": {},
+              "赏": {
+                "docs": {
+                  "reward.html": {
+                    "ref": "reward.html",
+                    "tf": 0.05555555555555555
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "length": 128
+    },
+    "corpusTokens": [
+      "09",
+      "1.1",
+      "1.2",
+      "1.3",
+      "10:11:24",
+      "11:16:37",
+      "11:23:19",
+      "11:24:00",
+      "11:24:24",
+      "11:42:46",
+      "11:43:01",
+      "16",
+      "2.1",
+      "2.2",
+      "2018",
+      "3.1",
+      "4.1",
+      "albert",
+      "copyright",
+      "epub,",
+      "gitbook该文件修订时间：",
+      "mobi格式的下载。开源项目地址：github",
+      "pdf,",
+      "reserved，pow",
+      "right",
+      "w",
+      "©",
+      "书中文章都是我在知乎的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法。",
+      "你们好些人说我是基督教的无脑黑，其实我是懒得和你们废脑子了。",
+      "你们要看我的逻辑推理，请来这里。我将我写过的百余篇文章梳理如下，方便大家阅读，也方便你们批判。",
+      "你有什么相见恨晚的英语学习方法？",
+      "全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：github",
+      "前言",
+      "前言前言",
+      "在与新老基督徒的辩论中，你们的证据并没有更新，连论调也一模一样，我实在懒得把我两年前的文章再复述一篇，重复对我的读者也是一种罪过。",
+      "如何提高学习能力？",
+      "如果您从本书得到了一些收获，欢迎扫码赞赏我，您的支持会激励我创作更多优质内容。",
+      "学习方法金字塔",
+      "年轻人如何在独居时有效地保持自律？",
+      "我考研的故事",
+      "既然知识都会遗忘，我们为什么要学习？",
+      "本书由gitbook制作，提供",
+      "每年，新生入大学的时候，也是知乎上新一批教徒涌现的时候。",
+      "自制力模型",
+      "赞赏",
+      "赞赏赞赏"
+    ],
+    "pipeline": [
+      "stopWordFilter",
+      "stemmer"
+    ]
+  },
+  "store": {
+    "./": {
+      "url": "./",
+      "title": "前言",
+      "keywords": "",
+      "body": "前言前言\n每年，新生入大学的时候，也是知乎上新一批教徒涌现的时候。\n在与新老基督徒的辩论中，你们的证据并没有更新，连论调也一模一样，我实在懒得把我两年前的文章再复述一篇，重复对我的读者也是一种罪过。\n你们好些人说我是基督教的无脑黑，其实我是懒得和你们废脑子了。\n你们要看我的逻辑推理，请来这里。我将我写过的百余篇文章梳理如下，方便大家阅读，也方便你们批判。\n书中文章都是我在知乎的回答，内容有些许重复,希望大家海涵。另一方面，重复的内容正是影响我最深的观念和想法。\n全书由我个人编辑校对，难免有纰漏错误。希望读者朋友们不吝赐教。文章统一反馈交流区：Github\nCopyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:23:19\n"
+    },
+    "../chapter1/1.1.html": {
+      "url": "../chapter1/1.1.html",
+      "title": "1.1 年轻人如何在独居时有效地保持自律？",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:42:46\n"
+    },
+    "../chapter1/1.2.html": {
+      "url": "../chapter1/1.2.html",
+      "title": "1.2 学习方法金字塔",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:42:46\n"
+    },
+    "../chapter1/1.3.html": {
+      "url": "../chapter1/1.3.html",
+      "title": "1.3 自制力模型",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:42:46\n"
+    },
+    "chapter2/2.1.html": {
+      "url": "chapter2/2.1.html",
+      "title": "2.1 既然知识都会遗忘，我们为什么要学习？",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:16:37\n"
+    },
+    "chapter2/2.2.html": {
+      "url": "chapter2/2.2.html",
+      "title": "2.2 如何提高学习能力？",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:00\n"
+    },
+    "chapter3/3.1.html": {
+      "url": "chapter3/3.1.html",
+      "title": "3.1 我考研的故事",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:24:24\n"
+    },
+    "chapter4/4.1.html": {
+      "url": "chapter4/4.1.html",
+      "title": "4.1 你有什么相见恨晚的英语学习方法？",
+      "keywords": "",
+      "body": "Copyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 11:43:01\n"
+    },
+    "reward.html": {
+      "url": "reward.html",
+      "title": "赞赏",
+      "keywords": "",
+      "body": "赞赏赞赏\n本书由gitbook制作，提供 pdf, epub, mobi格式的下载。开源项目地址：Github\n如果您从本书得到了一些收获，欢迎扫码赞赏我，您的支持会激励我创作更多优质内容。\n\n\n\n\n\n\n\n\n\n\nCopyright © Albert-W 2018 all right reserved，powered by Gitbook该文件修订时间：\n2018-09-16 10:11:24\n"
+    }
+  }
+}
