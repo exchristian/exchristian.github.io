@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0e0d42-87b9-46c9-942f-e3efd07f0b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/微信图片_20180912214326.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/微信图片_20180913222348.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/copy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/copy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/reward.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search_index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/reward.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/book.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +29,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="13" />
+          <entry key="json" value="1" />
+          <entry key="md" value="15" />
           <entry key="sh" value="3" />
         </counts>
       </usages-collector>
@@ -47,11 +38,13 @@
         <counts>
           <entry key="Bash" value="3" />
           <entry key="Git file" value="1" />
-          <entry key="Markdown" value="13" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="json" value="19" />
           <entry key="md" value="71" />
           <entry key="sh" value="11" />
           <entry key="txt" value="25" />
@@ -60,6 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="11" />
+          <entry key="JSON" value="19" />
           <entry key="Markdown" value="71" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
@@ -74,16 +68,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/copy.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <entry file="file://$PROJECT_DIR$/src/SUMMARY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1147">
+                <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter4/4.1.md">
+        <entry file="file://$PROJECT_DIR$/src/reward.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -97,6 +96,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -107,9 +107,10 @@
       <list>
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/chapter1/1.1.md" />
-        <option value="$PROJECT_DIR$/src/SUMMARY.md" />
         <option value="$PROJECT_DIR$/src/README.md" />
         <option value="$PROJECT_DIR$/copy.sh" />
+        <option value="$PROJECT_DIR$/src/book.json" />
+        <option value="$PROJECT_DIR$/src/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -120,10 +121,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="241" />
-    <option name="y" value="33" />
+    <option name="x" value="112" />
+    <option name="y" value="18" />
     <option name="width" value="1849" />
-    <option name="height" value="1052" />
+    <option name="height" value="991" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,6 +146,12 @@
               <item name="exchristian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exchristian.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exchristian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -158,7 +165,7 @@
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537093957586" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537096069907" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -173,11 +180,122 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Google\github\exchristian.github.io\src\chapter1" />
       <recent name="F:\Google\github\exchristian.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Google\github\exchristian.github.io\src" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +335,7 @@
       <workItem from="1537046855949" duration="2373000" />
       <workItem from="1537049782109" duration="1266000" />
       <workItem from="1537089092617" duration="1632000" />
-      <workItem from="1537090760112" duration="3811000" />
+      <workItem from="1537090760112" duration="5276000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537047824737</created>
@@ -261,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537093172507</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chapter2">
+      <created>1537094616193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537094616193</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9269000" />
+    <option name="totallyTimeSpent" value="10734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,17 +402,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="27" width="1491" height="848" extended-state="0" />
+    <frame x="111" y="30" width="1491" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28262386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28262386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TypeScript" weight="0.32970452" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32947975" />
@@ -296,7 +421,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.65686274" visible="true" weight="0.47976878" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.65686274" weight="0.44634527" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.34313726" side_tool="true" weight="0.6526773" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -317,11 +442,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="add" />
     <MESSAGE value="change" />
     <MESSAGE value="init" />
     <MESSAGE value="chapter2" />
     <option name="LAST_COMMIT_MESSAGE" value="chapter2" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -343,28 +471,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reward.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="64">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
@@ -431,6 +537,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter4/4.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/copy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -438,7 +554,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/4.1.md">
+    <entry file="file://$PROJECT_DIR$/src/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1147">
+            <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reward.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />

@@ -9,10 +9,10 @@
 
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/Albert-W/leave-and-learn"
+      "url": "https://github.com/exchristian/exchristian.github.io"
     },
     "tbfed-pagefooter": {
-      "copyright": "Copyright &copy Albert-W 2018",
+      "copyright": "Copyright &copy exchristian 2018",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
