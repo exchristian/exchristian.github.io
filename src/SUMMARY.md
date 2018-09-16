@@ -1,6 +1,6 @@
 # 目录
 
-* [学无止境](https://albert-w.github.io/leave-and-learn/)
+* [驳基督徒手册](https://exchristian.github.io)
 
 
 * [前言](README.md)
