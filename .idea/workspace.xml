@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0e0d42-87b9-46c9-942f-e3efd07f0b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/3.9.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/3.1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/3.1.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +14,7 @@
     <session id="647022704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="3" />
@@ -58,7 +47,7 @@
           <entry key="json" value="19" />
           <entry key="md" value="2671" />
           <entry key="sh" value="30" />
-          <entry key="txt" value="49" />
+          <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -68,7 +57,7 @@
           <entry key="HTML" value="2" />
           <entry key="JSON" value="19" />
           <entry key="Markdown" value="2669" />
-          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="PLAIN_TEXT" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -195,10 +184,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="59" />
-    <option name="width" value="1598" />
-    <option name="height" value="996" />
+    <option name="x" value="47" />
+    <option name="y" value="58" />
+    <option name="width" value="1600" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -238,7 +227,7 @@
     <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537484159216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537518109425" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -272,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="copy.sh" type="BashConfigurationType" factoryName="Bash">
       <module name="exchristian.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,8 +285,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +308,7 @@
       <workItem from="1537116668200" duration="234000" />
       <workItem from="1537172142312" duration="33000" />
       <workItem from="1537477434927" duration="1332000" />
-      <workItem from="1537478833903" duration="5256000" />
+      <workItem from="1537478833903" duration="5346000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537047824737</created>
@@ -405,11 +394,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537116851384</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add.">
+      <created>1537484222437</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537484222437</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32866000" />
+    <option name="totallyTimeSpent" value="32956000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,7 +417,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="452" y="25" width="1289" height="803" extended-state="0" />
+    <frame x="39" y="48" width="1289" height="803" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18927701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -470,7 +467,8 @@
     <MESSAGE value="picture" />
     <MESSAGE value="chapter 2" />
     <MESSAGE value="amend." />
-    <option name="LAST_COMMIT_MESSAGE" value="amend." />
+    <MESSAGE value="add." />
+    <option name="LAST_COMMIT_MESSAGE" value="add." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
