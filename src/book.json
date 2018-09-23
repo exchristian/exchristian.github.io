@@ -1,11 +1,12 @@
 {
 
   "plugins": [
+    "baidu-tongji",
     "github",
     "tbfed-pagefooter",
     "anchor-navigation-ex@0.1.8",
-    "-sharing",
-    "baidu-tongji"
+    "-sharing"
+
   ],
 
   "pluginsConfig": {
