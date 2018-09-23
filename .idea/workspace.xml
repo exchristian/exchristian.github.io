@@ -2,76 +2,308 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f0e0d42-87b9-46c9-942f-e3efd07f0b4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.15.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.18.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.21.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.22.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.23.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.24.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.25.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.26.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.27.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/4.9.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/5.9.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.15.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.18.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.21.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.22.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.23.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.24.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/6.9.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/7.9.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/1.5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/1.6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter1/1.7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/4.28.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.17.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.19.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.21.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.22.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.23.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.24.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.25.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.26.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.27.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.28.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.29.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.30.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.31.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.32.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.33.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.34.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.35.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/7.36.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.14.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.15.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.17.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.18.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.19.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.21.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.22.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.23.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.24.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.25.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.26.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.27.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.28.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.29.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/8.9.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/9.1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/9.2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/9.3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/9.4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/1.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/2.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/3.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/5.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/6.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/7.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/reward.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search_index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/reward.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/search_index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/book.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/6.3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/6.3.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,24 +315,24 @@
     <session id="647022704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="html" value="2" />
-          <entry key="json" value="2" />
-          <entry key="md" value="145" />
+          <entry key="json" value="3" />
+          <entry key="md" value="213" />
           <entry key="sh" value="6" />
         </counts>
       </usages-collector>
@@ -109,27 +341,27 @@
           <entry key="Bash" value="6" />
           <entry key="Git file" value="2" />
           <entry key="HTML" value="2" />
-          <entry key="JSON" value="2" />
-          <entry key="Markdown" value="145" />
+          <entry key="JSON" value="3" />
+          <entry key="Markdown" value="213" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="27" />
-          <entry key="json" value="19" />
-          <entry key="md" value="5395" />
+          <entry key="json" value="24" />
+          <entry key="md" value="7291" />
           <entry key="sh" value="30" />
-          <entry key="txt" value="83" />
+          <entry key="txt" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="30" />
           <entry key="Git file" value="27" />
-          <entry key="HTML" value="12" />
-          <entry key="JSON" value="19" />
-          <entry key="Markdown" value="5383" />
-          <entry key="PLAIN_TEXT" value="83" />
+          <entry key="HTML" value="35" />
+          <entry key="JSON" value="24" />
+          <entry key="Markdown" value="7256" />
+          <entry key="PLAIN_TEXT" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -141,11 +373,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/copy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -154,22 +386,8 @@
         <entry file="file://$PROJECT_DIR$/src/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/7.9.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="256">
-                <caret line="89" column="176" selection-start-line="89" selection-start-column="176" selection-end-line="89" selection-end-column="176" />
+              <first_editor relative-caret-position="180">
+                <caret line="202" selection-start-line="202" selection-end-line="202" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -179,43 +397,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/7.8.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/7.7.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-165">
-                <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="29" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter7/7.6.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="10" column="110" selection-start-line="10" selection-start-column="110" selection-end-line="10" selection-end-column="110" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+        <entry file="file://$PROJECT_DIR$/src/book.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -225,10 +410,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>但</find>
+      <find />
+      <find>心结</find>
       <find>、</find>
     </findStrings>
     <replaceStrings>
       <replace>旦</replace>
+      <replace>.</replace>
       <replace>.</replace>
     </replaceStrings>
   </component>
@@ -245,57 +433,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter4/4.23.md" />
-        <option value="$PROJECT_DIR$/src/chapter4/4.24.md" />
-        <option value="$PROJECT_DIR$/src/chapter4/4.25.md" />
-        <option value="$PROJECT_DIR$/src/chapter4/4.26.md" />
-        <option value="$PROJECT_DIR$/src/chapter4/4.27.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.1.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.2.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.3.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.4.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.5.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.6.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.7.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.8.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.9.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.10.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.11.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.12.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.13.md" />
-        <option value="$PROJECT_DIR$/src/chapter5/5.14.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.2.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.3.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.4.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.5.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.7.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.8.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.9.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.10.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.11.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.12.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.13.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.14.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.15.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.16.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.17.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.18.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.19.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.20.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.21.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.22.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.23.md" />
-        <option value="$PROJECT_DIR$/src/chapter6/6.24.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.1.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.2.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.3.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.4.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.5.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.6.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.7.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.8.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.23.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.24.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.25.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.26.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.27.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.28.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.29.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.30.md" />
+        <option value="$PROJECT_DIR$/src/chapter4/4.28.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.31.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.32.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.33.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.34.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.35.md" />
+        <option value="$PROJECT_DIR$/src/chapter7/7.36.md" />
+        <option value="$PROJECT_DIR$/src/chapter1/1.7.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.1.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.2.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.4.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.5.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.6.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.7.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.8.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.3.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.9.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.10.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.11.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.12.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.13.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.14.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.15.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.16.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.17.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.18.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.19.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.20.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.21.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.22.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.23.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/2.24.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.25.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.26.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.27.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.28.md" />
+        <option value="$PROJECT_DIR$/src/chapter9/9.1.md" />
+        <option value="$PROJECT_DIR$/src/chapter8/8.29.md" />
+        <option value="$PROJECT_DIR$/src/chapter9/9.2.md" />
+        <option value="$PROJECT_DIR$/src/chapter9/9.3.md" />
+        <option value="$PROJECT_DIR$/src/chapter9/9.4.md" />
         <option value="$PROJECT_DIR$/src/SUMMARY.md" />
-        <option value="$PROJECT_DIR$/src/chapter7/7.9.md" />
+        <option value="$PROJECT_DIR$/src/book.json" />
       </list>
     </option>
   </component>
@@ -347,9 +535,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="365" />
-    <option name="y" value="46" />
-    <option name="width" value="1673" />
+    <option name="x" value="608" />
+    <option name="y" value="30" />
+    <option name="width" value="1674" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -376,7 +564,7 @@
               <item name="exchristian.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="exchristian.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -390,7 +578,7 @@
     <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537658885408" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537734334110" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -475,7 +663,8 @@
       <workItem from="1537517999324" duration="265000" />
       <workItem from="1537524490412" duration="915000" />
       <workItem from="1537565057748" duration="4361000" />
-      <workItem from="1537632897804" duration="23196000" />
+      <workItem from="1537632897804" duration="23536000" />
+      <workItem from="1537695587703" duration="20512000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537047824737</created>
@@ -582,11 +771,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537569393095</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="chapter 7">
+      <created>1537659070607</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537659070607</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61693000" />
+    <option name="totallyTimeSpent" value="82545000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,10 +794,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="37" width="1338" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="487" y="24" width="1339" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14296874" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14519906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -616,8 +811,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.65686274" visible="true" weight="0.29037267" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.34313726" side_tool="true" weight="0.6526773" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.6557377" visible="true" weight="0.42546585" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3442623" side_tool="true" visible="true" weight="0.42546585" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32970452" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -651,230 +846,15 @@
     <MESSAGE value="add." />
     <MESSAGE value="build books in linux." />
     <MESSAGE value="chapter 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 4" />
+    <MESSAGE value="chapter 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 7" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter4/4.25.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.24.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/4.26.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter4/4.27.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="155">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="43">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="107">
-            <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="139">
-            <caret line="12" column="120" lean-forward="true" selection-start-line="12" selection-start-column="120" selection-end-line="12" selection-end-column="120" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.6.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="123">
-            <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.8.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.9.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="64">
-            <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.10.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
-            <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.11.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="155">
-            <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.12.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.13.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="139">
-            <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5/5.14.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="219">
-            <caret line="62" column="50" lean-forward="true" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="464">
+          <first_editor relative-caret-position="148">
             <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor>
@@ -883,11 +863,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.4.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.25.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="63" column="147" lean-forward="true" selection-start-line="63" selection-start-column="147" selection-end-line="63" selection-end-column="147" />
+          <first_editor relative-caret-position="164">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -895,10 +875,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.5.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.27.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="283">
+          <first_editor relative-caret-position="160">
+            <caret line="5" column="92" lean-forward="true" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.26.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
             <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           </first_editor>
           <second_editor>
@@ -907,21 +899,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2/2.20.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.28.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <first_editor relative-caret-position="196">
+            <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -929,11 +911,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.8.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.29.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="32">
-            <caret line="2" selection-start-line="2" selection-end-line="95" selection-end-column="47" />
+          <first_editor relative-caret-position="800">
+            <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -941,11 +923,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.10.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.30.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="59">
-            <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <first_editor relative-caret-position="132">
+            <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -953,21 +935,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/1.4.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter4/4.28.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.9.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="19" column="259" selection-start-line="19" selection-start-column="259" selection-end-line="19" selection-end-column="259" />
+          <first_editor relative-caret-position="84">
+            <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -975,11 +947,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.11.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.31.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="10" column="69" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <first_editor relative-caret-position="-44">
+            <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -987,22 +959,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.12.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.33.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1744">
-            <caret line="69" selection-start-line="69" selection-end-line="69" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.13.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
+          <first_editor relative-caret-position="116">
             <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor>
@@ -1011,11 +971,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.14.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.32.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <first_editor relative-caret-position="36">
+            <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1023,11 +983,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.15.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.34.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="219">
-            <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <first_editor relative-caret-position="128">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1035,11 +995,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.16.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.35.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <first_editor relative-caret-position="148">
+            <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1047,191 +1007,419 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.17.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1168">
-            <caret line="37" column="238" selection-start-line="37" selection-start-column="238" selection-end-line="37" selection-end-column="238" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.18.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="320">
-            <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.19.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.20.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.21.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1008">
-            <caret line="48" column="74" selection-start-line="48" selection-start-column="74" selection-end-line="48" selection-end-column="74" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.22.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="683">
-            <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.23.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="139">
-            <caret line="54" selection-start-line="54" selection-end-line="54" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter6/6.24.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="251">
-            <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1424">
-            <caret line="71" selection-start-line="71" selection-end-line="71" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="31" selection-start-line="31" selection-end-line="31" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="139">
-            <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.5.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.6.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="10" column="110" selection-start-line="10" selection-start-column="110" selection-end-line="10" selection-end-column="110" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-165">
-            <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="29" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.8.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter7/7.36.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="176">
+            <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/1.7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="79" column="63" selection-start-line="79" selection-start-column="63" selection-end-line="79" selection-end-column="63" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="160">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
+            <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.6.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.7.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.8.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-188">
+            <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.9.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="192">
+            <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.10.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="160">
+            <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.12.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.13.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="148">
+            <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.15.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.16.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="164">
+            <caret line="62" column="11" lean-forward="true" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.17.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1136">
+            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.18.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
             <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.19.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="212">
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.20.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.21.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="212">
+            <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.22.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.23.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-284">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.24.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.25.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.26.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1008">
+            <caret line="55" selection-start-line="55" selection-end-line="55" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.27.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="128">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.28.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter8/8.29.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="820">
+            <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter9/9.1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter9/9.2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
+            <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter9/9.3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="212">
+            <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter9/9.4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
+            <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1242,8 +1430,8 @@
     <entry file="file://$PROJECT_DIR$/src/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+          <first_editor relative-caret-position="180">
+            <caret line="202" selection-start-line="202" selection-end-line="202" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1251,15 +1439,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter7/7.9.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="256">
-            <caret line="89" column="176" selection-start-line="89" selection-start-column="176" selection-end-line="89" selection-end-column="176" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+    <entry file="file://$PROJECT_DIR$/src/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/copy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
