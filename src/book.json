@@ -5,7 +5,7 @@
     "tbfed-pagefooter",
     "anchor-navigation-ex@0.1.8",
     "-sharing",
-    "baiduana"
+    "baidu-tongji"
   ],
 
   "pluginsConfig": {
@@ -26,7 +26,7 @@
     "fontsettings": {
       "size": 1
     },
-    "baiduana": {
+    "baidu-tongji": {
       "token": "d8516583d24f8363544591b2707f470b"
     }
 

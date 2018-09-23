@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f0e0d42-87b9-46c9-942f-e3efd07f0b4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/book.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +29,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="html" value="4" />
+          <entry key="html" value="6" />
           <entry key="js" value="1" />
           <entry key="json" value="3" />
           <entry key="md" value="213" />
@@ -41,7 +40,7 @@
         <counts>
           <entry key="Bash" value="6" />
           <entry key="Git file" value="2" />
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="6" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="213" />
@@ -53,7 +52,7 @@
           <entry key="json" value="24" />
           <entry key="md" value="7291" />
           <entry key="sh" value="30" />
-          <entry key="txt" value="85" />
+          <entry key="txt" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -63,7 +62,7 @@
           <entry key="HTML" value="35" />
           <entry key="JSON" value="24" />
           <entry key="Markdown" value="7256" />
-          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="PLAIN_TEXT" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -78,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="48">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -101,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/book.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="480">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -116,6 +115,8 @@
       <find>心结</find>
       <find>、</find>
       <find>baidu</find>
+      <find>d85165</find>
+      <find>d8516</find>
     </findStrings>
     <replaceStrings>
       <replace>旦</replace>
@@ -238,8 +239,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="566" />
-    <option name="y" value="32" />
+    <option name="x" value="286" />
     <option name="width" value="1674" />
     <option name="height" value="1000" />
   </component>
@@ -286,7 +286,7 @@
     <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537735769428" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537736998721" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -372,7 +372,7 @@
       <workItem from="1537524490412" duration="915000" />
       <workItem from="1537565057748" duration="4361000" />
       <workItem from="1537632897804" duration="23536000" />
-      <workItem from="1537695587703" duration="21619000" />
+      <workItem from="1537695587703" duration="22669000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537047824737</created>
@@ -493,11 +493,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537734785680</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="chapter 9">
+      <created>1537735754997</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537735754997</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add token.">
+      <created>1537736325625</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1537736325625</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83652000" />
+    <option name="totallyTimeSpent" value="84702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,7 +523,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="27" width="1339" height="800" extended-state="0" />
+    <frame x="453" y="26" width="1339" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14519906" />
@@ -527,8 +541,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6557377" visible="true" weight="0.5170807" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3442623" side_tool="true" visible="true" weight="0.5170807" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6557377" weight="0.5170807" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3442623" side_tool="true" weight="0.5170807" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" sideWeight="0.4990196" weight="0.3299566" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32970452" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -564,7 +578,8 @@
     <MESSAGE value="chapter 4" />
     <MESSAGE value="chapter 7" />
     <MESSAGE value="chapter 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 9" />
+    <MESSAGE value="add token." />
+    <option name="LAST_COMMIT_MESSAGE" value="add token." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -1133,27 +1148,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/reward.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2727" lean-forward="true" selection-start-line="2727" selection-end-line="2727" />
+        <state relative-caret-position="301">
+          <caret line="2746" column="32" lean-forward="true" selection-start-line="2746" selection-start-column="32" selection-end-line="2746" selection-end-column="32" />
+          <folding>
+            <element signature="e#61697#63518#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31016" />
+        <state relative-caret-position="605">
+          <caret line="2747" column="1816" selection-start-line="2747" selection-start-column="1811" selection-end-line="2747" selection-end-column="1816" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/copy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/book.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="480">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
