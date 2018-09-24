@@ -1,4 +1,6 @@
 {
+  "language": "zh-hans",
+
 
   "plugins": [
     "baidu-tongji",
@@ -25,10 +27,17 @@
       "tocLevel3Icon": "fa fa-hand-o-right"
     },
     "fontsettings": {
+      "family": "serif",
       "size": 1
     },
     "baidu-tongji": {
       "token": "d8516583d24f8363544591b2707f470b"
+    },
+    "pdf": {
+      "pageNumbers": true,
+      "fontSize": 18,
+      "paperSize": "a5"
+
     }
 
   }
