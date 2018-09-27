@@ -3,367 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f0e0d42-87b9-46c9-942f-e3efd07f0b4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/1.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/2.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/3.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5/5.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/5.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/6.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/6.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.29.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.29.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.30.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.30.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.31.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.31.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.32.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.32.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.33.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.33.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.34.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.34.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.35.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.35.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.36.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.36.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter7/7.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/7.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.29.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.29.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter8/8.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter8/8.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9/9.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9/9.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9/9.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9/9.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9/9.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9/9.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9/9.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9/9.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter1/1.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter1/1.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter2/2.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter2/2.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter3/3.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter3/3.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter4/4.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter4/4.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter5/5.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter5/5.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter6/6.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter6/6.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.29.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.29.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.30.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.30.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.31.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.31.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.32.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.32.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.33.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.33.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.34.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.34.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.35.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.35.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.36.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.36.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter7/7.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter7/7.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.13.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.14.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.15.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.16.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.17.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.18.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.19.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.20.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.21.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.22.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.23.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.24.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.25.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.25.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.26.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.27.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.28.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.28.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.29.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.29.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.7.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.8.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter8/8.9.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter8/8.9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter9/9.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter9/9.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter9/9.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter9/9.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter9/9.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter9/9.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/chapter9/9.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/chapter9/9.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-baidu-tongji/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/reward.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reward.html" beforeDir="false" afterPath="$PROJECT_DIR$/reward.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/book.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -413,7 +52,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="27" />
-          <entry key="json" value="49" />
+          <entry key="json" value="59" />
           <entry key="md" value="7314" />
           <entry key="sh" value="86" />
           <entry key="txt" value="146" />
@@ -424,7 +63,7 @@
           <entry key="Bash" value="86" />
           <entry key="Git file" value="27" />
           <entry key="HTML" value="35" />
-          <entry key="JSON" value="49" />
+          <entry key="JSON" value="59" />
           <entry key="Markdown" value="7279" />
           <entry key="PLAIN_TEXT" value="146" />
         </counts>
@@ -438,20 +77,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/book.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="128">
+              <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="15" />
+              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -605,8 +244,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="347" />
-    <option name="y" value="27" />
+    <option name="x" value="157" />
+    <option name="y" value="21" />
     <option name="width" value="1675" />
     <option name="height" value="1000" />
   </component>
@@ -738,7 +377,7 @@
       <workItem from="1537777839343" duration="2604000" />
       <workItem from="1537786226223" duration="56000" />
       <workItem from="1538034568704" duration="1272000" />
-      <workItem from="1538076902853" duration="307000" />
+      <workItem from="1538076902853" duration="1257000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1537047824737</created>
@@ -908,11 +547,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538035249675</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="amends for chapter 1">
+      <created>1538077253044</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1538077253044</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96561000" />
+    <option name="totallyTimeSpent" value="97511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -924,7 +570,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="278" y="22" width="1340" height="800" extended-state="0" />
+    <frame x="398" y="18" width="1340" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2176287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1533,17 +1180,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/copy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="15" />
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
         </state>
       </provider>
     </entry>
