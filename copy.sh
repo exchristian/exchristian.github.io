@@ -16,4 +16,7 @@ git remote add origin git@two:wuyiqin18/exchristian.github.io.git
 git config user.name "exchristian"
 git config user.email "wuyiqin18@gmail.com"
 
+git config --list 查看用户名
+
+
 git commit 改变
