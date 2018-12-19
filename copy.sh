@@ -9,3 +9,4 @@ gitbook mobi src ./mybook.mobi
 cp -r docs/* ./ 
 
 gitbook build src ./会导致目录清空而失败，此命令不能执行。
+
