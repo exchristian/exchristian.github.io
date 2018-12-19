@@ -1,6 +1,6 @@
 # 目录
 
-* [驳基督徒手册](https://exchristian.github.io)
+* [知乎主页](https://www.zhihu.com/people/pfdlw/activities)
 
 
 * [前言](README.md)
