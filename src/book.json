@@ -6,16 +6,14 @@
     "github",
     "tbfed-pagefooter",
     "anchor-navigation-ex",
-    "-sharing",
-    "sharing-plus",
     "-lunr", 
     "-search", 
     "search-pro",
-    "pageview-count",
     "splitter",
     "popup",
-    "custom-favicon",
-    "expandable-chapters"
+    "expandable-chapters",
+    "pageview-count"
+
 
   ],
 
@@ -23,6 +21,7 @@
     "github": {
       "url": "https://github.com/exchristian/exchristian.github.io"
     },
+
     "tbfed-pagefooter": {
       "copyright": "Copyright &copy exchristian 2018",
       "modify_label": "该文件修订时间：",
@@ -42,8 +41,8 @@
       "fontSize": 18,
       "paperSize": "a5"
 
-    },
-    "favicon": "images/favicon.png"
+    }
+
 
   }
 }
