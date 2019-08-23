@@ -1,6 +1,6 @@
 docs
 gitbook/
-chapter[0-9]/
+# chapter[0-9]/ 会查找多层目录
 src/node_modules/
 
 .gitignore

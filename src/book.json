@@ -5,9 +5,17 @@
   "plugins": [
     "github",
     "tbfed-pagefooter",
-    "anchor-navigation-ex@0.1.8",
+    "anchor-navigation-ex",
     "-sharing",
-    "pageview-count"
+    "sharing-plus",
+    "-lunr", 
+    "-search", 
+    "search-pro",
+    "pageview-count",
+    "splitter",
+    "popup",
+    "custom-favicon",
+    "expandable-chapters"
 
   ],
 
@@ -34,7 +42,8 @@
       "fontSize": 18,
       "paperSize": "a5"
 
-    }
+    },
+    "favicon": "images/favicon.png"
 
   }
 }

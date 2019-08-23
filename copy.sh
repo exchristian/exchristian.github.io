@@ -1,10 +1,9 @@
-Window CMD 下操作
+Window CMD 下操作失败转wsl ; 
+
 
 npm install gitbook -g
-npm uninstall -g gitbook
-npm install -g gitbook-cli
 
-install package in book.json 
+install package from book.json in src/
 gitbook install src
 
 
