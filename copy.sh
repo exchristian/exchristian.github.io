@@ -1,6 +1,16 @@
-gitbook install src
-gitbook build src docs
+Window CMD 下操作
 
+npm install gitbook -g
+npm uninstall -g gitbook
+npm install -g gitbook-cli
+
+install package in book.json 
+gitbook install src
+
+
+build the book. 
+gitbook build src docs
+总是找不到文件，切到wsl 文件下。 
 
 gitbook pdf src ./mybook.pdf
 gitbook epub src ./mybook.epub
