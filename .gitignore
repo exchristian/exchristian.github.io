@@ -1,5 +1,5 @@
-docs
-gitbook/
+
+
 # chapter[0-9]/ 会查找多层目录
 src/node_modules/
 
@@ -12,6 +12,6 @@ copy.sh
 # Ada Library Information
 *.ali
 
-# folders
+
 
 
