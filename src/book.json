@@ -12,8 +12,9 @@
     "splitter",
     "popup",
     "expandable-chapters",
-    "pageview-count"
-
+    "pageview-count",
+    "-sharing",
+    "sharing-plus"
 
   ],
 
@@ -41,6 +42,30 @@
       "fontSize": 18,
       "paperSize": "a5"
 
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+          "facebook", "google", "twitter",
+          "weibo", "qq", "linkedin",
+          "qzone", "douban"
+      ]
     }
 
 

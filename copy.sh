@@ -3,13 +3,13 @@ Window CMD 下操作失败转wsl ;
 
 npm install gitbook -g
 
-install package from book.json in src/
+/install package from book.json in src/
 gitbook install src
 
 
-build the book. 
+/build the book from src to docs/ 
 gitbook build src docs
-总是找不到文件，切到wsl 文件下。 
+
 
 gitbook pdf src ./mybook.pdf
 gitbook epub src ./mybook.epub
