@@ -1,4 +1,4 @@
-Window CMD 下操作失败转wsl ; 
+# Window CMD 下操作失败转wsl ; 
 
 
 npm install gitbook -g
@@ -17,7 +17,7 @@ gitbook mobi src ./mybook.mobi
 
 cp -r docs/* ./ 
 
-gitbook build src ./会导致目录清空而失败，此命令不能执行。
+# gitbook build src ./会导致目录清空而失败，此命令不能执行。
 
 git remote rm origin
 git remote add origin git@two:wuyiqin18/exchristian.github.io.git
